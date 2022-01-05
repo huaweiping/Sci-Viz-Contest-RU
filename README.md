@@ -1,1 +1,1 @@
-# Sci-Viz-Contest-RU
+# SciVis-Contest-RU
